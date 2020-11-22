@@ -12,30 +12,34 @@ How to install:
 firstly if you do not have git install it
 
 in the terminal do:
-cd PathOfYourLikingWhereYouWantToStoreTheFile
+- cd PathOfYourLikingWhereYouWantToStoreTheFile
 i often do:
-cd Desktop
+- cd Desktop
 
 then do:
-git clone https://github.com/DaRkSurface/gmaildictionaryattack.git
+- git clone https://github.com/DaRkSurface/gmaildictionaryattack.git
 
 
 Installed!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to open:
-cd PathWhereGmailAttackIsLocated
+- cd PathWheregmaildictionaryattackIsLocated
+for example: 
+- cd Desktop/gmaildictionaryattack
 
 then do:
-ls
+- ls
+
 This is optional this is only if you have changed the name of the .py or if you want to see all the files.
 
 then do:
-cat README.md
+- cat README.md
 
 If you dont have python 3.x installed then install it!
 
-then do: python gmailattack.py
+then do: 
+- python gmailattack.py
 
 DONE!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
