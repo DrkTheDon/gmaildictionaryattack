@@ -1,4 +1,4 @@
-# DaRk
+# gmaildictionaryattack - by DaRk
 # This Script is only for educational purposes to show you how these attacks are done. 
 # Do NOT use this in a malicious way to others without explicit concent!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
