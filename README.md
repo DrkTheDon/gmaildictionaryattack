@@ -1,7 +1,7 @@
 # gmaildictionaryattack - by DaRk
 # This Script is only for educational purposes to show you how these attacks are done. 
 # Do NOT use this in a malicious way to others without explicit concent!
-# Keep In mind that you are violating **Gmails Terms Of Use**
+# Keep In mind that you are violating **Gmails Terms Of Use** If you use this to "hack" accounts
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Quick notes:
 this is purely for linux dist users, I do not recommend using this in any other OS like windows or Mac because of its file system and its inbuilt files!
