@@ -4,7 +4,7 @@
 # Keep In mind that you are violating **Gmails Terms Of Use** If you use this to "hack" accounts
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Quick notes:
-this is purely for linux dist users, I do not recommend using this in any other OS like windows or Mac because of its file system and its inbuilt files!
+this is usable for most of OS's, Linux dist and Windows OS and Mac OS for example. Although if you're going to use windows use windows 10 only and use PowerShell as the terminal. 
 
 This Attacker is not at all recommended now because of gmails rate limit on login attempts. Use this attacker only if you maybe have 5 - 40 passwords which you know that one of them is correct. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
