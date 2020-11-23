@@ -27,7 +27,7 @@ Installed!
 How to open:
 ```cd PathWheregmaildictionaryattackIsLocated```
 for example: 
-```cd gmaildictionaryattack```
+```cd gmaildictionaryattack``` (If You already have done ```cd Desktop```
 
 then do:
 ```ls```
