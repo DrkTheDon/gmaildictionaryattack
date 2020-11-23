@@ -27,7 +27,7 @@ Installed!
 How to open:
 ```cd PathWheregmaildictionaryattackIsLocated```
 for example: 
-```cd Desktop/gmaildictionaryattack```
+```cd gmaildictionaryattack```
 
 then do:
 ```ls```
@@ -38,6 +38,9 @@ then do:
 ```cat README.md```
 
 If you dont have python 3.x installed then install it!
+
+This works only for Linux dist if you dont install it, but if you're on windows I don't think you need it:
+```chmod +x gmailattack.py```
 
 then do: 
 ``` python gmailattack.py```
