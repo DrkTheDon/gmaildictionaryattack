@@ -6,7 +6,7 @@
 Quick notes:
 this is usable for most of OS's, Linux dist and Windows OS and Mac OS for example. Although if you're going to use windows use windows 10 only and use PowerShell as the terminal. 
 
-This Attacker is not at all recommended now because of gmails rate limit on login attempts. Use this attacker only if you maybe have 5 - 40 passwords which you know that one of them is correct. 
+This Attacker is not at all recommended now because of gmails rate limit on login attempts. Use this attacker only if you maybe have around 5 passwords which you know that one of them is correct. Otherwise you have to use cooldowns with I hopefully will code soon. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to install:
