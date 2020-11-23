@@ -43,7 +43,7 @@ This works only for Linux dist if you dont install it, but if you're on windows 
 ```chmod +x gmailattack.py```
 
 then do: 
-``` python gmailattack.py```
+``` python3 gmailattack.py```
 
 DONE!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
