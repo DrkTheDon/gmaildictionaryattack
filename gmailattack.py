@@ -25,9 +25,6 @@ if pwd == "0":
 
 if pwd == "1":
     passswfile = input("Path of your passlist: ")
-else:
-    print("You did not Enter 0 nor 1 as a penalty you will now restart the whole porcess!")
-    quit()
 
 passswfile = open(passswfile, "r")
 
