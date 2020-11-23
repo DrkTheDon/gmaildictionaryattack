@@ -16,7 +16,7 @@ smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
 smtpserver.ehlo()
 smtpserver.starttls()
 
-user = raw_input("Enter Target (Gmail Adress): ")
+user = input("Enter Target (Gmail Adress): ")
 
 pwd = input("Enter 0 if you want to use the inbuilt basic wordlist of passwords, enter 1 if you want to use your own:")
 
