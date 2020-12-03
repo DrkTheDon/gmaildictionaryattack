@@ -13,44 +13,37 @@ How to install:
 firstly if you do not have git install it
 
 in the terminal do:
-```python cd PathOfYourLikingWhereYouWantToStoreTheFile```
+```cd PathOfYourLikingWhereYouWantToStoreTheFile```
 i often do:
-```python cd Desktop```
+```cd Desktop```
 
 then do:
-```python
-git clon+e https://github.com/DaRkSurface/gmaildictionaryattack.git```
+```git clon+e https://github.com/DaRkSurface/gmaildictionaryattack.git```
 
 
 Installed!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to open:
-```python
-cd PathWheregmaildictionaryattackIsLocated```
+```cd PathWheregmaildictionaryattackIsLocated```
 for example: 
-```python
-cd gmaildictionaryattack``` (If You already have done ```cd Desktop```
+```cd gmaildictionaryattack``` (If You already have done ```cd Desktop```
 
 then do:
-```python
-ls```
+```ls```
 
 This is optional this is only if you have changed the name of the .py or if you want to see all the files.
 
 then do:
-```python
-cat README.md```
+```cat README.md```
 
 If you dont have python 3.x installed then install it!
 
 This works only for Linux dist if you dont install it, but if you're on windows I don't think you need it:
-```python
-chmod +x gmailattack.py```
+```chmod +x gmailattack.py```
 
 then do: 
-```python
-python3 gmailattack.py```
+```python3 gmailattack.py```
 
 DONE!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
