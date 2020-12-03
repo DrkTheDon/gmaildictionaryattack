@@ -13,15 +13,13 @@ How to install:
 firstly if you do not have git install it
 
 in the terminal do:
-```python
-cd PathOfYourLikingWhereYouWantToStoreTheFile```
+```python cd PathOfYourLikingWhereYouWantToStoreTheFile```
 i often do:
-```python
-cd Desktop```
+```python cd Desktop```
 
 then do:
 ```python
-git clone https://github.com/DaRkSurface/gmaildictionaryattack.git```
+git clon+e https://github.com/DaRkSurface/gmaildictionaryattack.git```
 
 
 Installed!
