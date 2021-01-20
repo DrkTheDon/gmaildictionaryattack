@@ -18,7 +18,7 @@ i often do:
 ```cd Desktop```
 
 then do:
-```git clon+e https://github.com/DaRkSurface/gmaildictionaryattack.git```
+```git clone https://github.com/DaRkSurface/gmaildictionaryattack.git```
 
 
 Installed!
